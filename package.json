@@ -20,12 +20,13 @@
     "stream"
   ],
   "author": "Edvinas Paulauskas",
-  "license": "GNU",
+  "license": "GPL",
   "bugs": {
     "url": "https://github.com/SkepticalHippo/twitch-url/issues"
   },
   "homepage": "https://github.com/SkepticalHippo/twitch-url",
   "dependencies": {
-    "m3u8": "0.0.6"
+    "m3u8": "0.0.6",
+    "request": "^2.58.0"
   }
 }
