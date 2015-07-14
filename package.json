@@ -20,7 +20,7 @@
     "stream"
   ],
   "author": "Edvinas Paulauskas",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/SkepticalHippo/twitch-url/issues"
   },
